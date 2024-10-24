@@ -11,5 +11,5 @@ This is a simple To-Do List application where users can add, edit, delete, and m
 
 ## Technologies Used
 - HTML
-- CSS (Flexbox for layout)
-- JavaScript (DOM manipulation, local storage)
+- CSS 
+- JavaScript
